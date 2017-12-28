@@ -3,6 +3,8 @@ twitter ; @a1iraqi
 by ; azozz AL-Firas
 website ; www.a1iraqi.com
 -->
+<!-- azozz 
+
 
 
 <div class="col-md-4">
@@ -13,7 +15,10 @@ website ; www.a1iraqi.com
 <a class="btn btn-danger" href="http://twitter.com/a1iraqi">تثبيت</a>
 </div>
 </div>
- <!-- apps--> 
+ 
+ 
+ 
+ 
 <div class="col-md-4 col-sm-6">
 <div class="media-2">
 <dir class="azozz-firas">
@@ -31,10 +36,14 @@ website ; www.a1iraqi.com
 </dir>     
 </div>
 </div>
- <!-- apps--> 
 
 
- <!-- apps -->  
+
+
+
+
+
+
 <div class="col-md-4">
 <div class="thumbnail">
 <div class="img-thumbnail">
@@ -48,6 +57,11 @@ website ; www.a1iraqi.com
 </div>
 </div>
 </div> 
-<!-- apps -->
 
+
+
+
+
+
+-->
 
