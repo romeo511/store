@@ -1,29 +1,19 @@
-# store
-azozz AL-firas
-
 <!-- 
 twitter ; @a1iraqi
 by ; azozz AL-Firas
 website ; www.a1iraqi.com
 -->
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" type="text/css" href="bootstrap.css">
-	<title>azozz</title>
-</head>
-<body>
 
 
-                    <div class="col-md-4">
-                        <div class="azozz-apps">
-                            <img class="img-circle" src="https://avatars3.githubusercontent.com/u/33958581?s=460&v=4">
-                            <h3>azozz AL-firas </h3>
-                            <p>مصمم - مبرمج</p>
-                            <a class="btn btn-danger" href="http://twitter.com/a1iraqi">تثبيت</a>
-                        </div>
-                    </div>
-
+<div class="col-md-4">
+<div class="azozz-apps">
+<img class="img-circle" src="https://avatars3.githubusercontent.com/u/33958581?s=460&v=4">
+<h3>azozz AL-firas </h3>
+<p>مصمم - مبرمج</p>
+<a class="btn btn-danger" href="http://twitter.com/a1iraqi">تثبيت</a>
+</div>
+</div>
+ <!-- apps--> 
 <div class="col-md-4 col-sm-6">
 <div class="media-2">
 <dir class="azozz-firas">
@@ -41,10 +31,10 @@ website ; www.a1iraqi.com
 </dir>     
 </div>
 </div>
+ <!-- apps--> 
 
 
-
-   
+ <!-- apps -->  
 <div class="col-md-4">
 <div class="thumbnail">
 <div class="img-thumbnail">
@@ -53,16 +43,11 @@ website ; www.a1iraqi.com
 <h4 style=" color: #333;">azozz AL-Firas</h4>
 <p> مصمم <span style="color:#333;"> مبرمج </span></p>
 <p><span style="color:#333;"> 100MB</span></p>
-<a href="http://twitter.com/a1iraqi" class="btn btn-snapchat" data-toggle="modal" data-target="">تحميل</a>
-
-
-  
+<a href="http://twitter.com/a1iraqi" class="btn btn-snapchat" data-toggle="modal" data-target="">تحميل</a>  
 </div>
 </div>
 </div>
 </div> 
+<!-- apps -->
 
 
-
-</body>
-</html>
